@@ -1,0 +1,30 @@
+{
+  "name": "angular-encryption-service",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rrhett/angular-encryption-service"
+  },
+  "author": {
+    "name": "Rhett Robinson",
+    "email": "rrhett@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "http://github.com/rrhett/angular-encryption-service/issues"
+  },
+  "main": "angular-encryption-service.umd.js",
+  "module": "angular-encryption-service.js",
+  "jsnext:main": "angular-encryption-service.js",
+  "typings": "angular-encryption-service.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "text-encoding-utf-8": "^1.0.1",
+    "typescript-base64-arraybuffer": "^0.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
